@@ -89,12 +89,10 @@ except:
 st.markdown("### 🌸 Espero curarme de ti")
 st.markdown("""
 <div class="poema">
-    ¿Te parece bien que te quiera nada más una semana?<br>
-    No es mucho, ni es poco, es bastante.<br>
-    En una semana se puede reunir todas las palabras de amor<br>
-    que se han pronunciado sobre la tierra<br>
-    y se les puede prender fuego.<br><br>
-    <div class="autor">— Jaime Sabines</div>
+    Con pasos de seda y ojos de Sol, un gato dibuja un dulce rincón.
+Su suave ronroneo es música y paz, un tierno latido que cura el hogar.
+Pequeño guardián de sueños de amor, nos llena la vida con gracia y primor.
+    <div class="autor">— NN</div>
 </div>
 """, unsafe_allow_html=True)
 
